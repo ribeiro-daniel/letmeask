@@ -12,7 +12,12 @@
 ### App 
 ![computer-letmeask-user-question-github](https://user-images.githubusercontent.com/63724035/127915780-3f55c5b1-4f9b-40c9-990b-b93eabb3972a.png)
 
-
+<h2>Tecnologias</h2>
+<ul>
+    <li>React.js</li>
+    <li>Firebase</li>
+    <li>SASS</li>
+</ul>
 
 <h2>Fluxo</h2>
 - [x] O usuário poderá se cadastrar utilizando uma conta Google <br/>
